@@ -1,3 +1,3 @@
 # apanacollege-demo
 This is my first project.<br>
-Author : Smital
+Author : Smital Kaginkar
